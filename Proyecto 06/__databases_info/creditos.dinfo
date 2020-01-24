@@ -1,0 +1,22 @@
+Créditos;;/content/drive/My Drive/Proyecto 06/Credit.csv;;12
+Unnamed: 0;;NUM_DIS;;;;Índices;;0
+Income;;NUM_CON;;ingreso anual disponible en miles de dólares;;Ingreso;;0
+Limit;;NUM_DIS;;;;Límite Del Crédito;;0
+Rating;;NUM_DIS;;clasificación del crédito;;Clasificación;;0
+Cards;;NUM_DIS;;cantidad de tarjetas de crédito;;Tarjetas;;0
+Age;;NUM_DIS;;edad del usuario;;Edad;;0
+Education;;NUM_DIS;;años de educación del usuario;;Nivel Educativo;;0
+Gender;;CAT_NO_ORD;;Hombre o mujer;;Género;;2
+2;;Hombre;;
+1;;Mujer;;
+Student;;CAT_NO_ORD;;¿Es estudiante?;;Estudiante;;2
+1;;No;;No es estudiante
+2;;Si;;Es estudiante
+Married;;CAT_NO_ORD;;indica si la persona está o no casada;;Casado;;2
+2;;Si;;
+1;;No;;
+Ethnicity;;CAT_NO_ORD;;Etnicidad del usuario;;Origen Étnico;;3
+1;;Caucasico;;
+2;;Asiático;;
+3;;Afro Americano;;
+Balance;;NUM_DIS;;promedio de deuda en tarjeta de crédito del usuario;;Balance;;0

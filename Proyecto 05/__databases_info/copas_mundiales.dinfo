@@ -1,0 +1,80 @@
+Copas Mundiales;;/content/drive/My Drive/Proyecto 05/WorldCups.csv;;10
+Year;;NUM_DIS;;;;Año;;0
+Country;;CAT_NO_ORD;;;;País;;15
+1;;Uruguay;;
+2;;Italy;;
+3;;France;;
+4;;Brazil;;
+5;;Switzerland;;
+6;;Sweden;;
+7;;Chile;;
+8;;England;;
+9;;Mexico;;
+10;;Germany;;
+11;;Argentina;;
+12;;Spain;;
+13;;USA;;
+14;;Korea/Japan;;
+15;;South Africa;;
+Winner;;CAT_NO_ORD;;;;Ganador;;9
+1;;Uruguay;;
+2;;Italy;;
+3;;Germany FR;;
+4;;Brazil;;
+5;;England;;
+6;;Argentina;;
+7;;France;;
+8;;Spain;;
+9;;Germany;;
+Runners-Up;;CAT_NO_ORD;;;;Segundo Lugar;;10
+1;;Argentina;;
+2;;Czechoslovakia;;
+3;;Hungary;;
+4;;Brazil;;
+5;;Sweden;;
+6;;Germany FR;;
+7;;Italy;;
+8;;Netherlands;;
+9;;Germany;;
+10;;France;;
+Third;;CAT_NO_ORD;;;;Tercer Lugar;;14
+1;;USA;;
+2;;Germany;;
+3;;Brazil;;
+4;;Sweden;;
+5;;Austria;;
+6;;France;;
+7;;Chile;;
+8;;Portugal;;
+9;;Germany FR;;
+10;;Poland;;
+11;;Italy;;
+12;;Croatia;;
+13;;Turkey;;
+14;;Netherlands;;
+Fourth;;CAT_NO_ORD;;;;Cuarto Lugar;;16
+1;;Yugoslavia;;
+2;;Austria;;
+3;;Sweden;;
+4;;Spain;;
+5;;Uruguay;;
+6;;Germany FR;;
+7;;Soviet Union;;
+8;;Brazil;;
+9;;Italy;;
+10;;France;;
+11;;Belgium;;
+12;;England;;
+13;;Bulgaria;;
+14;;Netherlands;;
+15;;Korea Republic;;
+16;;Portugal;;
+GoalsScored;;NUM_DIS;;;;Cantidad De Goles;;0
+QualifiedTeams;;CAT_NO_ORD;;;;Equipos Calificados;;5
+1;;13;;
+2;;16;;
+3;;15;;
+4;;24;;
+5;;32;;
+MatchesPlayed;;NUM_DIS;;;;Partidos Jugados;;0
+Attendance;;NUM_CON;;;;Asistentes;;0

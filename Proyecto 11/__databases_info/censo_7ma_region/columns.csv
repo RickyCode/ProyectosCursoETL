@@ -1,0 +1,51 @@
+col_id;;column_name;;coltype;;description;;secundary_name
+3;;Unnamed: 0;;CAT_ORD;;id único de cada persona;;id
+4;;DC;;CAT_ORD;;id único distrito;;distrito
+5;;AREA;;CAT_NO_ORD;;area urbana o rural;;area
+7;;ZC_LOC;;CAT_NO_ORD;;;;zona_localidad
+8;;ID_ZONA_LOC;;CAT_ORD;;;;id_zona_localidad
+9;;NVIV;;CAT_ORD;;numero de la vivienda;;num_vivienda
+11;;NHOGAR;;CAT_ORD;;número de hogar;;num_hogar
+12;;PERSONAN;;CAT_ORD;;número de persona;;num_persona
+13;;P07;;CAT_NO_ORD;;relación de parentezco con el jefe de hogar;;parentezco
+14;;P08;;CAT_NO_ORD;;;;sexo
+15;;P09;;NUM_DIS;;;;edad
+16;;P10;;CAT_NO_ORD;;;;res_habitual
+17;;P10COMUNA;;CAT_NO_ORD;;comuna de residencia habitual;;comuna_res_hab
+18;;P10PAIS;;CAT_NO_ORD;;país residencia habitual;;pais_res_hab
+19;;P11;;CAT_NO_ORD;;residencia hace 5 años;;residencia_5años
+21;;P11COMUNA;;CAT_NO_ORD;;comuna de residencia hace 5 años;;comuna_res_5a
+23;;P11PAIS;;CAT_NO_ORD;;país de residencia hace 5 años;;pais_res_5a
+25;;P12;;CAT_NO_ORD;;;;lugar_nacimiento
+26;;P12COMUNA;;CAT_NO_ORD;;comuna de nacimiento;;comuna_nac
+27;;P12PAIS;;CAT_NO_ORD;;pais de nacimiento;;pais_nacimiento
+28;;P12A_LLEGADA;;NUM_DIS;;;;año_llegada_pais
+29;;P12A_TRAMO;;CAT_ORD;;rango de años en los que la persona llegó al país;;periodo_llegada_pais
+30;;P13;;CAT_NO_ORD;;asiste actualmente a la educación formal;;asiste_educ_formal
+31;;P14;;NUM_DIS;;curso o año más alto aprobado;;curso_mas_alto_aprob
+32;;P15;;CAT_ORD;;nivel del curso más alto aprobado;;nivel_mas_alto_aprob
+33;;P15A;;CAT_NO_ORD;;completó el nivel especificado;;nivel_completado
+35;;P16;;CAT_NO_ORD;;se considera perteneciente a un pueblo indígena u originario;;pueblo_originario
+36;;P16A;;CAT_NO_ORD;;pueblo indígenau originario listado;;pueblo_org_selec
+37;;P16A_OTRO;;CAT_NO_ORD;;pueblo indígena u originario (otro);;otro_pueblo_org_selec
+38;;P17;;CAT_NO_ORD;;trabajo durante la semana pasada;;trabajo_sem_pasada
+39;;P18;;CAT_NO_ORD;;rama de actividad económica;;rama_act_econ
+40;;P19;;NUM_DIS;;total de hijos/hijas nacidos vivos;;hijes_nac_vives
+41;;P20;;NUM_DIS;;total hijos/hijas vivos;;hijes_vives
+42;;P21M;;CAT_ORD;;mes de nacimiento del último hijo/hija;;mes_nac_ult_hije
+43;;P21A;;NUM_DIS;;año de nacimiento del último/a hijo/a;;año_nac_ult_hije
+2;;P11COMUNA_15R;;CAT_NO_ORD;;comuna de residencia hace 5 años considerando cuando habían 15 regiones;;comuna_res_5a_15r
+4;;P12PAIS_GRUPO;;CAT_NO_ORD;;país de nacimiento (grupo);;pais_nac_grupo
+5;;P10COMUNA_15R;;CAT_NO_ORD;;comuna de residencia habitual si fueran 15 regiones;;comuna_res_hab_15r
+7;;P16A_GRUPO;;CAT_NO_ORD;;pueblo indígena u originario (grupo);;pueblo_originario_grupo
+8;;REGION_15R;;CAT_ORD;;codigos regiones a 15 regiones;;region_15r
+9;;ESCOLARIDAD;;NUM_DIS;;años de escolaridad;;escolaridad
+10;;COMUNA_15R;;CAT_NO_ORD;;códigos comunas a 15 regiones;;comuna_15r
+12;;P12COMUNA_15R;;CAT_NO_ORD;;comuna de nacimiento a 15 regiones;;comuna_nac_15r
+13;;PROVINCIA_15R;;CAT_NO_ORD;;códigos provincias a 15r;;provincia_15r
+14;;REGION_PROVINCIA_COMUNA;;CAT_NO_ORD;;posee el identificador de la region, la provincia y la comuna de la persona.;;region_provincia_comuna
+15;;P11PAIS_GRUPO;;CAT_NO_ORD;;pais de residencia hace 5 años (grupo);;pais_res_5a_grupo
+16;;P10PAIS_GRUPO;;CAT_NO_ORD;;país de residencia habitual (grupo);;pais_res_hab_grupo
+1;;REGION;;CAT_NO_ORD;;;;region
+2;;COMUNA;;CAT_NO_ORD;;;;comuna
+4;;PROVINCIA;;CAT_NO_ORD;;;;provincia
